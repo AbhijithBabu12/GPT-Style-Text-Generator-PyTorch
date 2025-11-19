@@ -40,6 +40,15 @@ The goal of the project is to deeply understand how GPT-like models work interna
 
 ---
 
+## 🗃️ Dataset
+
+This model was trained on a dataset from Kaggle.
+Wikipedia Movie Plots. 
+
+Dataset link - https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots
+---
+
+---
 ## 🧩 How It Works
 
 ### 1️⃣ Tokenization
